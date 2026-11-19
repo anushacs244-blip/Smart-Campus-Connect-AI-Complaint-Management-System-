@@ -3,7 +3,7 @@ i# Smart Campus Connect - Frontend Client
 Frontend client for **Smart Campus Connect**, developed by **SPA**.
 
 ## Tech Stack
-- React 19
+- React and dart programming language
 - Vite
 - Tailwind CSS
 - React Router v7
