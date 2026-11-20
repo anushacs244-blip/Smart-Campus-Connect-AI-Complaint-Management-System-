@@ -1,0 +1,13 @@
+{
+  "name": "campusconnect-ai",
+  "version": "1.0.0",
+  "description": "Smart Campus Connect - AI & Student Grievance System",
+  "author": "SPA",
+  "scripts": {
+    "install:server": "cd server && npm install",
+    "install:client": "cd client && npm install",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "start:server": "cd server && npm start",
+    "start:client": "cd client && npm run dev"
+  }
+}

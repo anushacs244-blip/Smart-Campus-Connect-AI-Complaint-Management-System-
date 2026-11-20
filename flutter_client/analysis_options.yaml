@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - test/**
+  errors:
+    deprecated_member_use: ignore
+    dangling_library_doc_comments: ignore
+    slash_for_doc_comments: ignore
+    use_build_context_synchronously: ignore
+
+linter:
+  rules:
+    prefer_const_constructors: false

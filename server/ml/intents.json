@@ -1,0 +1,434 @@
+[
+  {
+    "text": "hello",
+    "intent": "greeting"
+  },
+  {
+    "text": "hi",
+    "intent": "greeting"
+  },
+  {
+    "text": "hey",
+    "intent": "greeting"
+  },
+  {
+    "text": "good morning",
+    "intent": "greeting"
+  },
+  {
+    "text": "good afternoon",
+    "intent": "greeting"
+  },
+  {
+    "text": "good evening",
+    "intent": "greeting"
+  },
+  {
+    "text": "hi assistant",
+    "intent": "greeting"
+  },
+  {
+    "text": "what is recent",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "whats recent",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "whats new",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "what is new",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "recent updates",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "latest updates",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "show recent",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "show latest",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "what was added recently",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "what happened recently",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "any new updates",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "recent announcements and events",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "recent activity",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "new additions",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "recent",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "latest",
+    "intent": "recent_updates"
+  },
+  {
+    "text": "who is hod of cs",
+    "intent": "department_hod"
+  },
+  {
+    "text": "who is hod of computer engineering",
+    "intent": "department_hod"
+  },
+  {
+    "text": "who is hod of it",
+    "intent": "department_hod"
+  },
+  {
+    "text": "who is hod of information technology",
+    "intent": "department_hod"
+  },
+  {
+    "text": "who is hod of extc",
+    "intent": "department_hod"
+  },
+  {
+    "text": "head of computer department",
+    "intent": "department_hod"
+  },
+  {
+    "text": "head of department",
+    "intent": "department_hod"
+  },
+  {
+    "text": "who leads computer engineering department",
+    "intent": "department_hod"
+  },
+  {
+    "text": "hod of cs department",
+    "intent": "department_hod"
+  },
+  {
+    "text": "department list",
+    "intent": "department_hod"
+  },
+  {
+    "text": "show all departments",
+    "intent": "department_hod"
+  },
+  {
+    "text": "departments in campus",
+    "intent": "department_hod"
+  },
+  {
+    "text": "show faculty members",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "list faculty of computer department",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who teaches in computer engineering",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "computer department teachers",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "faculty list",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is professor",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is teacher",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "show teachers",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "faculty directory",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is preetham",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is dr preetham h k",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is preetham h k",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is spandana",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is prof spandana m a",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is spandana m a",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is anusha",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is dr anusha c s",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is anusha c s",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is dr kavita",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is prof rajesh",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is sneha deshmukh",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is amit verma",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "tell me about faculty",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "who is",
+    "intent": "faculty_query"
+  },
+  {
+    "text": "list upcoming events",
+    "intent": "event_query"
+  },
+  {
+    "text": "any events today",
+    "intent": "event_query"
+  },
+  {
+    "text": "campus events",
+    "intent": "event_query"
+  },
+  {
+    "text": "show events",
+    "intent": "event_query"
+  },
+  {
+    "text": "what events are happening",
+    "intent": "event_query"
+  },
+  {
+    "text": "hackathon details",
+    "intent": "event_query"
+  },
+  {
+    "text": "tech fest technowave",
+    "intent": "event_query"
+  },
+  {
+    "text": "ai workshop",
+    "intent": "event_query"
+  },
+  {
+    "text": "upcoming workshops and fests",
+    "intent": "event_query"
+  },
+  {
+    "text": "competition schedule",
+    "intent": "event_query"
+  },
+  {
+    "text": "events list",
+    "intent": "event_query"
+  },
+  {
+    "text": "library timing",
+    "intent": "facility_query"
+  },
+  {
+    "text": "where is library",
+    "intent": "facility_query"
+  },
+  {
+    "text": "computer lab location",
+    "intent": "facility_query"
+  },
+  {
+    "text": "facilities available",
+    "intent": "facility_query"
+  },
+  {
+    "text": "lab timing",
+    "intent": "facility_query"
+  },
+  {
+    "text": "canteen timing",
+    "intent": "facility_query"
+  },
+  {
+    "text": "sports complex",
+    "intent": "facility_query"
+  },
+  {
+    "text": "campus cafeteria",
+    "intent": "facility_query"
+  },
+  {
+    "text": "latest notice",
+    "intent": "notice_query"
+  },
+  {
+    "text": "recent announcement",
+    "intent": "notice_query"
+  },
+  {
+    "text": "show notices",
+    "intent": "notice_query"
+  },
+  {
+    "text": "campus notice board",
+    "intent": "notice_query"
+  },
+  {
+    "text": "any new notice",
+    "intent": "notice_query"
+  },
+  {
+    "text": "exam schedule notice",
+    "intent": "notice_query"
+  },
+  {
+    "text": "placement drive notice",
+    "intent": "notice_query"
+  },
+  {
+    "text": "holiday notice",
+    "intent": "notice_query"
+  },
+  {
+    "text": "all circulars",
+    "intent": "notice_query"
+  },
+  {
+    "text": "notices list",
+    "intent": "notice_query"
+  },
+  {
+    "text": "tell me about the university",
+    "intent": "university_info"
+  },
+  {
+    "text": "about university",
+    "intent": "university_info"
+  },
+  {
+    "text": "university details",
+    "intent": "university_info"
+  },
+  {
+    "text": "who is chancellor",
+    "intent": "university_info"
+  },
+  {
+    "text": "who is vice chancellor",
+    "intent": "university_info"
+  },
+  {
+    "text": "who is vc",
+    "intent": "university_info"
+  },
+  {
+    "text": "where is university located",
+    "intent": "university_info"
+  },
+  {
+    "text": "university location and address",
+    "intent": "university_info"
+  },
+  {
+    "text": "when was university established",
+    "intent": "university_info"
+  },
+  {
+    "text": "university accreditation and naac grade",
+    "intent": "university_info"
+  },
+  {
+    "text": "university contact email and phone",
+    "intent": "university_info"
+  },
+  {
+    "text": "university vision and mission",
+    "intent": "university_info"
+  },
+  {
+    "text": "how to raise a complaint",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "lodge a grievance",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "student complaint system",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "i have a complaint",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "where can i lodge grievance",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "complaint categories and severity levels",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "how do admin evaluate complaints",
+    "intent": "complaint_help"
+  },
+  {
+    "text": "hostel wifi issue complaint",
+    "intent": "complaint_help"
+  }
+]
